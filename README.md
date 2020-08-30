@@ -3,4 +3,6 @@ Projeto progeo
 <br>
 # Projeto realizado para processo seletivo em  PROGEO
 <br>
-Usando o frame work symfony para criação de CRUD
+# Principais Tecnologia 
+<br>
+PHP , frame
